@@ -24,7 +24,6 @@ public class Classes {
         */
 
 
-
         //  Encapsulation: Ocultar informacion con private y solo dar acceso con metodos
         //  Polymorphism: heredar de otras clases sus metodos y valores
         //  Inheritance(herencia): Mientras la clase no sea tipo final, puede heredar a otras clases sus metodos y valores
